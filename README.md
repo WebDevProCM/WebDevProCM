@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Developer focusing on creating innovative and user-f
 
 #### My skillset includes:
 * ##### Front-End Development: HTML, CSS, JavaScript, TypeScript
-* ##### Frameworks & Libraries: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion, UI Libraries (shadcn UI, magic UI)
+* ##### Frameworks & Libraries: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Framer Motion, UI Libraries (shadcn UI, magic UI)
 * ##### Back-End Development: Node.js, Express.js
 * ##### Databases & APIs: MongoDB/Mongoose, RESTful APIs, Socket.io
 * ##### Authentication & Authorization: JWT, Express Sessions

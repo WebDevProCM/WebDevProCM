@@ -1,5 +1,5 @@
 ## Hey there!
-### I'm Chamod.
+### I'm Chamod Ud.
 
 I'm a passionate Full-Stack Developer focusing on creating innovative and user-friendly web applications. I enjoy the challenge of tackling complex problems and finding efficient solutions. I'm always eager to learn new skills and technologies to stay ahead of the curve and deliver top-quality projects.
 

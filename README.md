@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer focusing on creating innovative and user-f
 * ##### Front-End Development: HTML, CSS, JavaScript, TypeScript
 * ##### Frameworks & Libraries: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Framer Motion, UI Libraries (shadcn UI, magic UI)
 * ##### Back-End Development: Node.js, Express.js
-* ##### Databases & APIs: MongoDB/Mongoose, RESTful APIs, Socket.io
+* ##### Databases & APIs: MongoDB/Mongoose, MySQL, RESTful APIs, GraphQL, Socket.io
 * ##### Authentication & Authorization: JWT, Express Sessions
 
 When I'm not coding💻, you can find me gaming🎮 to unwind and recharge. I'm looking forward to learning best practices in programming and growing as a full-stack developer.

@@ -1,6 +1,11 @@
 # <p align="center"> Hi There! I'm Chamod Ud🤵</p>
+
 <p align="center"> 
-🔭 I’m full-stack developer, currently working as a freelance front-end developer. 👯 I'm looking forward to learning best practices in programming and growing as a full-stack developer. 🌱 I’m currently learning Python and React Native. ⚡ When I'm not coding💻, you can find me gaming🎮 to unwind and recharge.
+🎓 Final-year Software Engineering Student | 💻 Full-Stack Developer (1+ Year Experience)  
+</p>
+
+<p align="center"> 
+💼 Freelance experience in creating modern, responsive websites for clients. 🌱 I’m currently learning Python and React Native. 🎮 When I'm not coding, you can find me gaming to unwind and recharge. 🎯 Goal: To grow into a Senior Full-Stack Developer in the next few years
 </p>
 
 [![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:webdevprocm@gmail.com)
